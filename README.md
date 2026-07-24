@@ -1,6 +1,8 @@
 # 🤖 AI Interview Preparation Platform
 
 > An AI-powered interview preparation platform that simulates real interview experiences using Generative AI. The platform allows users to upload their resumes, practice technical and HR interviews, receive AI-generated questions, and get personalized performance analysis with detailed feedback.
+>
+> 🔗 Live Demo: https://gen-ai-job-preparation-website-plum.vercel.app
 
 
 ---
